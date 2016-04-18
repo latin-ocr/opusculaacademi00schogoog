@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./opusculaacademi00schogoog_0004.png"; bbox 0 0 3164 5138; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 361 60 1276 450">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 361 60 1389 450">
+     <span class='ocr_line' id='line_1_1' title="bbox 361 60 935 450; baseline 0.007 -92"><span class='ocrx_word' id='word_1_1' title='bbox 361 60 935 450; x_wconf 66' lang='lat' dir='ltr'><em>mmmmm</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1167 321 1276 388; baseline 0 -8"><span class='ocrx_word' id='word_1_2' title='bbox 1167 331 1202 388; x_wconf 55' lang='lat'><em>1¹!</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1227 321 1276 381; x_wconf 74' lang='grc' dir='ltr'><em>Η</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1586 5138">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1586 5138">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1586 5138; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 0 0 1586 5138; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
